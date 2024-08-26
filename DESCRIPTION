@@ -17,5 +17,5 @@ Language: en-US
 NeedsCompilation: no
 Maintainer: Giuseppe Corbelli <giuseppe.corbelli@uninettunouniversity.net>
 Config/testthat/edition: 3
-Packaged: 2024-08-26 09:26:42 UTC; GC
+Packaged: 2024-08-26 16:50:01 UTC; GC
 Author: Giuseppe Corbelli [aut, cre] (<https://orcid.org/0000-0002-2864-3548>)
